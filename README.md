@@ -2,3 +2,5 @@
 ![image](https://github.com/gipnozhard/UnscrambleCompose/assets/71705375/0818698a-2b9e-49b5-9450-4dfcc7da1875)
 ![image](https://github.com/gipnozhard/UnscrambleCompose/assets/71705375/4299b9dd-37db-4e31-a7c1-b7d27f6c759c)
 ![image](https://github.com/gipnozhard/UnscrambleCompose/assets/71705375/03a5eacd-c783-4976-a744-cdb7b53c7d14)
+
+#AndroidBasics
